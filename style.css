@@ -121,6 +121,13 @@ tr{
     margin: auto 20%;
 }
 
+.featuretable {
+    margin: 30px auto;
+}
+.trbrakes {
+    margin: 30px auto;
+}
+
 #pricing {
     margin-top: 60px;
     display: flex;
@@ -154,11 +161,14 @@ tr{
   
   .product > ol {
     margin: 15px 0;
+    align-content: center;
+    align-items: center;
   }
   
   .product > ol > li {
     padding: 5px 0;
     align-items: center;
+    text-align: center;
   }
   
   .product > button {
