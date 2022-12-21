@@ -4,7 +4,18 @@ body {
 }
 
 h2{
-    margin-top: 100px;
+    margin: 5px auto;
+}
+p{
+    margin: 5px auto;
+}
+
+iframe{
+    margin: 30px auto;
+}
+
+.top-header{
+    padding-top: 70px;
 }
 
 header {
@@ -98,10 +109,15 @@ img{
 }
 
 td{
-    padding: 30px;
+    padding: 0 30px;
+    text-align: left;
 }
 
+tr{
+    margin: 30px auto;
+}
 #feature{
-    text-align: left;
+    text-align: center;
     margin: auto 20%;
 }
+
