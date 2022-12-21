@@ -1,5 +1,10 @@
 body {
     background-color: #F8F7F3;
+    text-align: center;
+}
+
+h2{
+    margin-top: 100px;
 }
 
 header {
@@ -70,3 +75,33 @@ footer {
     color: #444;
   }
   
+
+img{
+    width: 70px;
+    height: 70px;
+}
+
+#email-input{
+    width: 280px;
+    height: 25px;
+}
+
+#button{
+    width: 140px;
+    height: 30px;
+    background-color: darkorange;
+    margin: 20px;
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+td{
+    padding: 30px;
+}
+
+#feature{
+    text-align: left;
+    margin: auto 20%;
+}
