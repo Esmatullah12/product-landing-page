@@ -5,9 +5,11 @@ body {
 
 h2{
     margin: 5px auto;
+    font-family: 'Roboto', sans-serif;
 }
 p{
     margin: 5px auto;
+    font-family: 'Roboto', sans-serif;
 }
 
 iframe{
@@ -118,7 +120,7 @@ tr{
 }
 #feature{
     text-align: center;
-    margin: auto 20%;
+    margin: auto 15%;
 }
 
 .featuretable {
